@@ -1,3 +1,3 @@
-gcc -o cpu temp.c -Wall
+gcc -o threads temp.c -Wall -pthread
 echo "----------------------------------------------------"
-./cpu A & ./cpu B & ./cpu C & ./cpu D [1] 7353 [2] 7354 [3] 7355 [4] 7356
+./threads 100000
