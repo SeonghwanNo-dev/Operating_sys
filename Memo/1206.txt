@@ -1,0 +1,3 @@
+atoi
+- "A"SCII to "I"nteger의 약자
+- C/C++ 표준 라이브러리 함수로, 문자열(ASCII)을 정수(Integer)로 변환하는 역할을 합니다.
