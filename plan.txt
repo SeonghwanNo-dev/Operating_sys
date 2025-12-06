@@ -1,0 +1,4 @@
+1. 실습 위주로 진행 with osdev wiki
+2. 교재도 병행, 교재는 OSTEP 원서로
+
+
